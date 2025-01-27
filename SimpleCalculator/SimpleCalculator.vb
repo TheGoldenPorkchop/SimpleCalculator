@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'VariablesAndDataType
-'link needed
+'https://github.com/TheGoldenPorkchop/SimpleCalculator
 
 Module SimpleCalculator
 

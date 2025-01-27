@@ -1,7 +1,7 @@
 ﻿'Angel Nava
 'Spring 2025
 'RCET2265
-'VariablesAndDataType
+'SimpleCalculator
 'https://github.com/TheGoldenPorkchop/SimpleCalculator
 
 Module SimpleCalculator
@@ -40,7 +40,7 @@ Module SimpleCalculator
         End If
         Console.WriteLine()
 
-        'number seletion
+        'number seletion two
         Console.WriteLine("Choose your second [Whole] number")
         numberTwo = Console.ReadLine()
         numberTwo = CInt(numberTwo)
